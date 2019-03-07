@@ -1,0 +1,8 @@
+Faker==0.8.16
+robotframework==3.0.2
+robotframework-debuglibrary==0.8
+robotframework-faker==4.0.0
+robotframework-selenium2library==3.0.0
+robotframework-seleniumlibrary==3.1.1
+robotframework-httplibrary==0.4.2
+selenium==3.0.2
